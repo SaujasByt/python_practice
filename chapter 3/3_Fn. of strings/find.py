@@ -1,0 +1,6 @@
+# find returns the lowest string index (if found, otherwise -1)
+a=("hllo hi, Good bye")
+b=(a.find("e"))
+c=(a.find("a"))
+print(b)
+print(c)
