@@ -1,0 +1,3 @@
+donkey is a animal
+donkey has 4 legs
+donkey has a tail
